@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/15928266/116806917-ab0f8d80-ab62-11eb-8d34-962fdfe692a7.png" ></img></a>
 </h1>
 <p align="center"> 
   <a href=""><img src="https://img.shields.io/static/v1?label=php&message=%3E=8.1&color=green&style=flat&logo=php"></a>
@@ -8,8 +7,8 @@
    <a href=""><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat"></a>
 </p>
 
-# SniperPhish
-[SniperPhish](https://sniperphish.com/) (SP in short) is a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions. The tool is designed in a view of performing professional phishing exercise and would be reminded to take prior permission from the targeted organization to avoid legal implications.
+# Thrly8-Finalersion
+[Thrly8-Finalersion](https://Thrly8-Finalersion.com/) (SP in short) is a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. Thrly8-Finalersion helps to combine both phishing emails and phishing websites you created to centrally track user actions. The tool is designed in a view of performing professional phishing exercise and would be reminded to take prior permission from the targeted organization to avoid legal implications.
 
 ## Basic Requirements
 * Operating System: Windows or Linux. The macOS support is not verified.
@@ -20,8 +19,8 @@
 1. Clone this repo or download the latest release
 2. Put the contents in your web root folder
 3. Open installation page http://localhost/install in your browser and follow the steps
-4. After installation, SniperPhish will redirect to login page http://localhost/spear
->Default login - *Username: `admin`   Password: `sniperphish`*
+4. After installation, Thrly8-Finalersion will redirect to login page http://localhost/spear
+>Default login - *Username: `admin`   Password: `Thrly8-Finalersion`*
 
 ## Main Features
 * Web tracker code generation - track your website visits and form submissions independently
@@ -60,26 +59,13 @@ In short, we create web tracker -> Add the web tracker to the phishing website -
 4. Now go to `Email Campaign -> Campaign List -> New Mail Campaign` and select/fill the fields to create the campaign.
 5. Start Mail campaign
 
-_Note: SniperPhish tracks your phishing website only if the page is called by appending `rid` parameter (ie. `?rid={{RID}}`) at the end. For example opening `http://yourphishingsite.com/login?rid=abcd` will be tracked, but not `http://yourphishingsite.com/login`. Above 3rd step does this by default._
+_Note: Thrly8-Finalersion tracks your phishing website only if the page is called by appending `rid` parameter (ie. `?rid={{RID}}`) at the end. For example opening `http://yourphishingsite.com/login?rid=abcd` will be tracked, but not `http://yourphishingsite.com/login`. Above 3rd step does this by default._
 
 #### Viewing combined Web-Email Result
 Go to `Web-MailCamp Dashboard -> Select Campaign`. Then select the web tracker and email campaign you created.<br/>
 <kbd><img src="https://user-images.githubusercontent.com/15928266/116777253-2e1bdf80-aaa0-11eb-9c44-e1db8f200c39.png" height="286"></img></kbd>
 
 ## More
-* SniperPhish website: https://sniperphish.com/
-* SniperPhish demo: https://demo.sniperphish.com/spear/
-* SniperPhish documentation: https://docs.sniperphish.com/
-
-## SniperPhish honors contributions of
-Joseph Nygil ([@j_nygil](https://twitter.com/j_nygil)) and Sreehari Haridas ([@sr33h4ri](https://twitter.com/sr33h4ri))
-
-## Come let's connect and collaborate
-Join on our SniperPhish discord community to engage with us!
-* Discord: https://sniperphish.com/discord/
-* Subscribe: https://www.youtube.com/@sniperphish
-
-## Donation
-If this project help you 'Phish', you can give me a cup of coffee :) 
-
-[![bitcoin](https://user-images.githubusercontent.com/15928266/124384822-9c318c80-dd05-11eb-948c-f0b9e697b740.png)](https://sniperphish.com/donate)
+* Thrly8-Finalersion website: https://Thrly8-Finalersion.com/
+* Thrly8-Finalersion demo: https://demo.Thrly8-Finalersion.com/spear/
+* Thrly8-Finalersion documentation: https://docs.Thrly8-Finalersion.com/
