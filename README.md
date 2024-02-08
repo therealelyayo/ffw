@@ -20,7 +20,7 @@
 2. Put the contents in your web root folder
 3. Open installation page http://localhost/install in your browser and follow the steps
 4. After installation, Thrly8-Finalersion will redirect to login page http://localhost/spear
->Default login - *Username: `admin`   Password: `Thrly8-Finalersion`*
+>Default login - *Username: `admin`   Password: `sniperphish`*
 
 ## Main Features
 * Web tracker code generation - track your website visits and form submissions independently
