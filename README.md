@@ -37,11 +37,6 @@
 * Non-ASCII (Punycode transcription) support for email and domain
 * Auto-renaming attachments on-the-fly
 
-## Screenshots
-<kbd>![Web-Email Campaign Dashboard](https://user-images.githubusercontent.com/15928266/175827939-baef7654-70a6-4305-b627-8849cce6a442.png)</kbd>
-
-<kbd>![Web Tracker Insertion](https://user-images.githubusercontent.com/15928266/116777832-198c1700-aaa1-11eb-9f10-4a0b27c172d8.gif)</kbd>
-
 ## Creating Web-Email Campaign - Quick Guide
 In short, we create web tracker -> Add the web tracker to the phishing website -> create mail campaign with a link pointing to the phishing website -> start mail campaign.
 #### Creating a web tracker:
@@ -63,7 +58,6 @@ _Note: Thrly8-Finalersion tracks your phishing website only if the page is calle
 
 #### Viewing combined Web-Email Result
 Go to `Web-MailCamp Dashboard -> Select Campaign`. Then select the web tracker and email campaign you created.<br/>
-<kbd><img src="https://user-images.githubusercontent.com/15928266/116777253-2e1bdf80-aaa0-11eb-9c44-e1db8f200c39.png" height="286"></img></kbd>
 
 ## More
 * Thrly8-Finalersion website: https://Thrly8-Finalersion.com/
